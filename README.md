@@ -4,4 +4,4 @@ Projeto pequeno para praticar os estudos de JavaScript.
 
 
 
-### <a href="https://antoni0carlos.github.io/Qrcodev/" target="_blank">Click aqui para ver Preview.</a>
+### <a href="https://antoni0carlos.github.io/Qrcodev/=_blank">Click aqui para ver Preview.</a>
