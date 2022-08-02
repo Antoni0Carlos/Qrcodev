@@ -1,5 +1,5 @@
 # Qrcodev
-Gerador de QR Code que gera apartir de link de sites com youtube.com ect.
+Gerador de QRCode que gera apartir de link de sites como youtube.com ect.
 Projeto pequeno para praticar os estudos de JavaScript.
 
 
